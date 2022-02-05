@@ -1,8 +1,8 @@
 <h1 align="center">Hey there👋, I'm Rayz224</h1>
 
-<img align="right" src="https://github.com/Rayz224/Rayz224/blob/main/devLife.png" width="auto" height="450">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2000&multiline=true&height=60&lines=Future+computer+science+student;If+everything+goes+well+%F0%9F%91%80+)](https://git.io/typing-svg)
+
+<img align="right" src="https://github.com/Rayz224/Rayz224/blob/main/devLife.png" width="auto" height="450">
 
 **About Me!**
 
