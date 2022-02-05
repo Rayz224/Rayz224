@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: He/him
 - 💾 Future computer science student
-- 🌱 Currently exploring different langugages (Python, C++, Kotlin, JS, and more) 
+- 🧾 Currently exploring different langugages (Python, C++, Kotlin, JS, and more) 
 - 🤔 Likes to learn through different projects (Self-hosting, Home assistant, ESPHome, custom electronics projects and more)
 
 
