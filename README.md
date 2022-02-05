@@ -7,9 +7,9 @@
 **About Me!**
 
 - 😄 Pronouns: He/him
-- 💾 I’m currently a student learning computer science
-- 🌱 I’m currently exploring different langugages (Python, C++, Kotlin, JS, and more) 
-- 🤔 I like learning through different projects (Home assistant, ESPHome, self-hosting, custom electronics projects and more)
+- 💾 Future computer science student
+- 🌱 Currently exploring different langugages (Python, C++, Kotlin, JS, and more) 
+- 🤔 Likes to learn through different projects (Self-hosting, Home assistant, ESPHome, custom electronics projects and more)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
