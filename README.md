@@ -2,12 +2,12 @@
 
 <img align="right" src="https://github.com/Rayz224/Rayz224/blob/main/devLife.png" width="370" height="auto">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2000&multiline=true&height=60&lines=Future+computer+science+student;If+everything+goes+well+%F0%9F%91%80+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2000&multiline=false&height=30&lines=Computer+engineering+student+%F0%9F%91%80+)](https://git.io/typing-svg)
 
 **About Me!**
 
 - 😄 Pronouns: He/him
-- 💾 Future computer science student
+- 💾 Computer engineering student (Might switch to software engineering)
 - 🧾 Currently exploring different langugages (Python, C++, Kotlin, JS, and more) 
 - 💡 Likes to learn through different projects (Self-hosting, Home assistant, ESPHome, custom electronics projects and more)
 
