@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Rayz224/Rayz224/blob/main/devLife.png" width="370" height="auto">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2000&multiline=false&height=30&lines=Computer+engineering+student+%F0%9F%91%80+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2000&multiline=false&height=30&lines=Software+engineering+student+%F0%9F%91%80+)](https://git.io/typing-svg)
 
 **About Me!**
 
