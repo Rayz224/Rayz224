@@ -6,8 +6,7 @@
 
 **About Me!**
 
-- 😄 Pronouns: He/him
-- 💾 Software engineering student
+- 💾 Software engineering student at Université Laval in Quebec City
 - 🧾 Currently exploring different langugages (Python, C++, Kotlin, Java, JS, C#, and more) 
 - 💡 Likes to learn through different projects (Self-hosting, Home assistant, custom electronics projects and more)
 
